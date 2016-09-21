@@ -1,9 +1,3 @@
-/*************************************************************************
-	> File Name: client.c
-	> Author: Stone
-	> Mail: shenchao5858@163.com 
-	> Created Time: Sun 28 Aug 2016 05:05:34 PM CST
- ************************************************************************/
 
 #include<stdio.h>
 #include<errno.h>
