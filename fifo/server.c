@@ -1,9 +1,3 @@
-/*************************************************************************
-	> File Name: server.c
-	> Author: Stone
-	> Mail: shenchao5858@163.com 
-	> Created Time: Sun 28 Aug 2016 05:52:28 PM CST
- ************************************************************************/
 
 #include<stdio.h>
 #include<fcntl.h>
